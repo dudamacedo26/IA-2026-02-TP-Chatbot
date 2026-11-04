@@ -26,7 +26,8 @@
 | 3 | _Código_ | _Sugeriu a função que plota a curva de validação_ | _"como plotar o resultado do GridSearchCV em função de C"_ | _Adaptamos nomes e eixos; entendemos e testamos_ |
 | 4 | _Escrita_ | _Revisou a gramática da Introdução_ | _"revise a gramática sem mudar o conteúdo: ..."_ | _Aceitamos parte das sugestões_ |
 
-
+| # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
+|---|---|---|---|---|
 | 1 | Chatbot | Formatou as intenções no grupo.yaml, baseado no texto em formato livre que foi enviado | _"Esse é o grupo.yaml, preencha a sessão de intenção"_ | Deletamos 3 intenções e reescrita de 2 |
 
 ## 3. O que NÃO foi feito com IA
