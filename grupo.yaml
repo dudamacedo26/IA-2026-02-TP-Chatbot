@@ -14,11 +14,16 @@ grupo:
       rga: "TODO"
     - nome: "TODO"
       rga: "TODO"
+    - nome: "Sidney Kenzo Goya Miyassato"
+      rga: "2019.1906.018-9"
 
 tema:
-  nome: "TODO: tema validado com o professor"
+  nome: "Atividades complementares e extensão"
   descricao: >
-    TODO: uma ou duas frases dizendo o que o bot faz e para quem.
+    Chatbot informativo sobre as atividades de extensão e a
+    curricularização na UFMS.
+    O sistema auxilia estudantes a compreender as regras, modalidades,
+    contabilização de horas e organização dessas atividades.
 
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
@@ -37,9 +42,15 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o Rex, assistente virtual do
-    Restaurante Universitário. Seja cordial, simples e direto."
-  contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
+    Você é um assistente virtual especializado em atividades de extensão
+    da Universidade Federal de Mato Grosso do Sul (UFMS). Seu objetivo é
+    auxiliar estudantes a compreender as normas e os procedimentos
+    relacionados à extensão universitária. Seja cordial, didático e
+    objetivo. Baseie suas respostas nos documentos oficiais fornecidos.
+    Não invente informações. Quando não encontrar uma resposta nos
+    documentos, informe suas limitações e indique onde o estudante
+    pode buscar orientação.
+  contato: "Coordenação do curso ou setor responsável pela extensão na UFMS"
   max_frases: 3
   turnos_historico: 3
 
@@ -61,35 +72,55 @@ roteamento:
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  TODO_intencao_1:
-    descricao: "TODO"
+  computo_horas_extensao:
+    descricao: "Contabilização de horas de extensão"
     resposta: >
-      TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
-      LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
-  TODO_intencao_2:
-    descricao: "TODO"
+      A contabilização das horas de atividade de extensão segue critérios definidos
+      pelas normas da UFMS. Consulte os documentos oficiais para verificar
+      os requisitos e procedimentos.
+
+  tipos_atividades_extensao:
+    descricao: "Tipos de atividades de extensão"
     resposta: >
-      TODO
-  TODO_intencao_3:
-    descricao: "TODO"
+      Existem diferentes modalidades de atividades extensionistas.
+      Consulte os documentos oficiais para conhecer os tipos de atividades
+      reconhecidos pela UFMS.
+
+  computo_horas_complementar:
+    descricao: "Contabilização de horas complementares"
     resposta: >
-      TODO
-  TODO_intencao_4:
-    descricao: "TODO"
+      A contabilização das horas de atividades complementares segue critérios definidos
+      pelas normas da UFMS. Consulte os documentos oficiais para verificar
+      os requisitos e procedimentos.
+
+  tipos_atividades_complementar:
+    descricao: "Tipos de atividades complementares"
     resposta: >
-      TODO
-  TODO_intencao_5:
-    descricao: "TODO"
+      Existem diferentes modalidades de atividades complementares.
+      Consulte os documentos oficiais para conhecer os tipos de atividades
+      reconhecidos pela UFMS.
+
+  atividades_remuneradas:
+    descricao: "Atividades remuneradas"
     resposta: >
-      TODO
+      A possibilidade de contabilizar atividades remuneradas depende
+      dos critérios estabelecidos nas normas institucionais, além de estabelecer
+      limites e exigências formais em relação à documentação dessas atividades. Consulte
+      os documentos oficiais para verificar as condições aplicáveis.
 
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
 respostas:
   chitchat:
-    saudacao: "Olá! Como posso ajudar?"
-    agradecimento: "Por nada!"
+    saudacao: "Olá! Como posso ajudar com atividades de extensão na UFMS?"
+    agradecimento: "Por nada! Estou à disposição."
     despedida: "Até logo!"
-    padrao: "Sou um assistente automático e posso ajudar com: {assuntos}."
-  fora_dominio: "Desculpe, não sei responder sobre isso. Posso ajudar com: {assuntos}."
-  esclarecer: "Não tenho certeza se entendi. Sua dúvida é sobre {opcao1} ou sobre {opcao2}?"
+    padrao: "Posso ajudar com informações sobre: {assuntos}."
+
+  fora_dominio: >
+    Desculpe, não consigo responder sobre esse assunto.
+    Posso ajudar com: {assuntos}.
+
+  esclarecer: >
+    Não tenho certeza se entendi. Sua dúvida é sobre {opcao1}
+    ou sobre {opcao2}?
