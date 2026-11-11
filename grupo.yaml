@@ -6,13 +6,13 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
-  integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
+  nome: "Grupo X"
+  integrantes:          
+    - nome: "Kauã Finotti Rios"
+      rga: "2024.1906.069-2"
+    - nome: "Maria Eduarda da Silva de Macedo"
       rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
+    - nome: "Klevin Ryan Ramalho Matos
       rga: "TODO"
     - nome: "Sidney Kenzo Goya Miyassato"
       rga: "2019.1906.018-9"

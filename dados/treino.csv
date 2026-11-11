@@ -1,1 +1,33 @@
 texto,intencao,origem
+Salve,chitchat,humano
+Opa!!,chitchat,humano
+bom dia,chitchat,humano
+Vlw,chitchat,humano
+Valeu,chitchat,humano
+como faço para validar as minhas horas de optativas?,fora_dominio,humano
+Quantas horas de extensão eu preciso em medicina,fora_dominio,humano
+vai chover hoje?,fora_dominio,humano
+quantas horas eu preciso no curso de ciências da computação,fora_dominio,humano
+toque uma música,fora_dominio,humano
+Qual o prazo máximo para eu fazer as horas de extensão?,computo_horas_extensao,humano
+Quantas horas de extensão eu preciso no meu curso?,computo_horas_extensao,humano
+Por onde eu faço a comprovação das minhas atividades de extensão,computo_horas_extensao,humano
+é possível validar atividades de extensão realizadas antes do ingresso no curso?,computo_horas_extensao,humano
+como reconhecer a carga horária de uma atividade de extensão,computo_horas_extensao,humano
+TCC(Trabalho de Conclusão de Curso) pode ser considerado como extensão?,computo_horas_extensao,humano
+O que pode ser considerada uma atividade de extensão?,tipos_atividades_extensao,humano
+Posso fazer atividades de extensão fora da UF?,tipos_atividades_extensao,humano
+Apresentação de trabalhos em eventos conta como horas de extensão?,tipos_atividades_extensao,humano
+participação em projeto social é considerado como extensão?,tipos_atividades_extensao,humano
+Praticar esporte pode ser usado como extensão,tipos_atividades_extensao,humano
+Como eu valido as horas de uma atividade complementar?,computo_horas_complementares,humano
+Preciso fazer quantas atividades complementares,computo_horas_complementares,humano
+Com quem eu tiro dúvidas sobre as atividades complementares?,computo_horas_complementares,humano
+quanddo eu devo comprovar as horas das minhas complementares?,computo_horas_complementares,humano
+Para quem eu envio os certificados das atividades complementaes,computo_horas_complementares,humano
+O que são atividades complementares,tipos_atividades_complementares,humano
+Qualquer tipo de atividade pode ser considerada atividade complementar?,tipos_atividades_complementares,humano
+Posso usar uma atividade de extensao como atividede complementar também?,tipos_atividades_complementares,humano
+monitoria pode ser cconsiderada uma atividade complementar?,tipos_atividades_complementares,humano
+Participar do PET conta como atividade complementar,tipos_atividades_complementares,humano
+explique o que é a tabela de pontuação de atividades complementares,tipos_atividades_complementares,humano
