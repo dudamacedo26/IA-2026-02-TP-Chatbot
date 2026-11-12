@@ -1,118 +1,109 @@
 texto,intencao,origem
-Meu trabalho de tempo integral dá horas de extensão?, atividades_remuneradas, humano
-MS multiplica dá algum tipo de horas?, atividades_remuneradas, humano
-IC que tem bolsa dá horas complementares?, atividades_remuneradas, humano
-Posso conseguir horas de extensão no meu estágio remunerado?, atividades_remuneradas, humano
-Pq preciso fazer hrs complementares?, curricularizacao_extensao, humano
-todo curso tem hrs de extensão?, curricularizacao_extensao, humano
-Qual a diferença de extensão pra estágio?, curricularizacao_extensao, humano
-Só tem extensão e complementar na UFMS?, curricularizacao_extensao, humano
-Oq eh hr extensão?, curricularizacao_extensao, humano
-
-pet da que tipo de hora?, tipos_atividades, humano
-como conseguir hrs de extensão?, tipos_atividades, humano
-Qual atividades dão essas hrs complementares?, tipos_atividades, humano
-Qual atividades dão essas hrs de extensão ?, tipos_atividades, humano
-Como fazer horas de extensão?, tipos_atividades, humano
-Dê exemplos de atividades de extensão, tipos_atividades, humano
-Posso participar de eventos de outros cursos pra conseguir hrs complementares?, tipos_atividades, humano
-Como saber se meu certificado é de extensão ou complementar?, tipos_atividades, humano
-Esporte é complementar?, tipos_atividades, humano
-Integra da ufms da que tipo de horas?, tipos_atividades, humano
-Academia escola da algum tipo de horas?, tipos_atividades, humano
-Mesário de eleição dá horas complementares?, tipos_atividades, humano
-Mesário de eleições da hrs de extensão?, tipos_atividades, humano
-Posso fazer horas complementar em outra faculdade?, tipos_atividades, humano
-Qual tipo de evento me dá horas complementares?, tipos_atividades, humano
-Se eu for no cinema eu ganho horas de extensão?, tipos_atividades, humano
-O progeli dá horas de extensão ou complementar?, tipos_atividades, humano
-Cheerleading da horas de extensão?, tipos_atividades, humano
-
-
-posso me formar sem hrs complementar?, computo_horas, humano
-posso usar hrs de extensão como complementar?, computo_horas, humano
-Doar sangue da quantas hrs?, computo_horas, humano
-tem limite de horas por ano?, computo_horas, humano
-Posso doar minhas hrs extras pra meus amigos?, computo_horas, humano
-em que semestre preciso fazer as hrs?, computo_horas, humano
-posso usar horas de antes da faculdade?, computo_horas, humano
-ate quando vale meu certificado de hrs de extensão?, computo_horas, humano
-qual o limite de horas complementares ?, computo_horas, humano
-Qual o limite de horas de extensão?, computo_horas, humano
-Da pra formar sem horas complementares?, computo_horas, humano
-Posso usar o msm certificado pra extensão e horas?, computo_horas, humano
-Qantos pontos valem o meu certificado?, computo_horas, humano
-Posso cumprir horas complementares depois de me formar?, computo_horas, humano
-Quantas hrs complementares da pra fazer na semana?, computo_horas, humano
-Oq acontece se eu passar o limite de horas, computo_horas, humano
-Posso fazer hrs complementares no horário das minhas aulas?, computo_horas, humano
-Quantas horas de extensão ganho sendo mesário?, computo_horas, humano
-Posso reaproveitar as hrs de extensão que fiz no meu curso antigo?, computo_horas, humano
-Como consigo 100 horas de extensão até final do mes, computo_horas, humano
-Lutar muay thay na academia escola dá quantas horas?, computo_horas, humano
-Posso usar horas de extensão pra anular falta?, computo_horas, humano
-Quantas hrs dá o progeli?, computo_horas, humano
-Quantas atividades de extensão eu preciso fazer?, computo_horas, humano
-Quantas atividades complementares preciso fazer?, computo_horas, humano
-qnts hrs de extensão, computo_horas, humano
-Qnts hrs de complementar eu preciso, computo_horas, humano
-
-
-como ver quantas horas complementares eu já tenho?, organizacao_ufms, humano
-qual edital consulto pontuação de hrs complementares?, organizacao_ufms, humano
-Quem verifica minhas horas enviadas?, organizacao_ufms, humano
-Quanto tempo demora pra responder meu envio de horas de extensão ?, organizacao_ufms, humano
-Posso pedir horas pro meu professor?, organizacao_ufms, humano
-Onde posso tirar duvidas de como fazer extensão e complementar?, organizacao_ufms, humano
-Como ver quantas horas falta pra eu cumprir?, organizacao_ufms, humano
-Onde envio meu certificado?, organizacao_ufms, humano
-Porque meu certificado de hrs de extensão foi recusado?, organizacao_ufms, humano
-Porque meu envio de horas complementares ta como pendente?, organizacao_ufms, humano
-até que dia posso enviar minhas horas de extensão?, organizacao_ufms, humano
-Quem decide quantas hrs vale as atividades ?, organizacao_ufms, humano
-Onde tem info de horas complementares na ufms?, organizacao_ufms, humano
-Mando meus certificados pra proece?, organizacao_ufms, humano
-A Proaes avalia meus certificados de horas?, organizacao_ufms, humano
-Qual email pra mandar minhas horas complementares?, organizacao_ufms, humano
-Como baixar meus certificados de horaz?, organizacao_ufms, humano
-Como saber se já bati minhas horas de extensão?, organizacao_ufms, humano
-
-
-Que horas abre a Facom?, fora_dominio, humano
-Ql o cardápio do RU?, fora_dominio, humano
-faculdade funciona no feriado?, fora_dominio, humano
-Tem aula no sabado?, fora_dominio, humano
-q dia é a prova de matemática?, fora_dominio, humano
-Reprovei por falta?, fora_dominio, humano
-Qnts faltas eu preciso pra reprovar?, fora_dominio, humano
-qual email dos meus professores?, fora_dominio, humano
-Como conseguir emprego?, fora_dominio, humano
-q dia começa as aulas?, fora_dominio, humano
-quantos semestre tem meu curso?, fora_dominio, humano
-quais cursos novos da uf?, fora_dominio, humano
-qual nota pra passar em medicina?, fora_dominio, humano
-quais motivos posso ser expulso?, fora_dominio, humano
-Onde vejo vagas de estagio?, fora_dominio, humano
-Quando abre inscrições pro progeli?, fora_dominio, humano
-Quantas materias posso pegar?, fora_dominio, humano
-
-
-Oi, chitchat, humano
-Valeu, chitchat, humano
-Thanks, chitchat, humano
-Obrigada, chitchat, humano
-Ta, chitchat, humano
-Tchau, chitchat, humano
-Blz, chitchat, humano
-Obrigado, chitchat, humano
-Falou, chitchat, humano
-Flw, chitchat, humano
-Brigada, chitchat, humano
-Brigado, chitchat, humano
-Hummmm, chitchat, humano
-Hmmm, chitchat, humano
-Kakakak, chitchat, humano
-Ah sim, chitchat, humano
-Beleza, chitchat, humano
-Tmj, chitchat, humano
-Tamo junto, chitchat, humano
+Meu trabalho de tempo integral dá horas de extensão?,atividades_remuneradas,humano
+MS multiplica dá algum tipo de horas?,atividades_remuneradas,humano
+IC que tem bolsa dá horas complementares?,atividades_remuneradas,humano
+Posso conseguir horas de extensão no meu estágio remunerado?,atividades_remuneradas,humano
+Pq preciso fazer hrs complementares?,curricularizacao_extensao,humano
+todo curso tem hrs de extensão?,curricularizacao_extensao,humano
+Qual a diferença de extensão pra estágio?,curricularizacao_extensao,humano
+Só tem extensão e complementar na UFMS?,curricularizacao_extensao,humano
+Oq eh hr extensão?,curricularizacao_extensao,humano
+pet da que tipo de hora?,tipos_atividades,humano
+como conseguir hrs de extensão?,tipos_atividades,humano
+Qual atividades dão essas hrs complementares?,tipos_atividades,humano
+Qual atividades dão essas hrs de extensão ?,tipos_atividades,humano
+Como fazer horas de extensão?,tipos_atividades,humano
+Dê exemplos de atividades de extensão,tipos_atividades,humano
+Posso participar de eventos de outros cursos pra conseguir hrs complementares?,tipos_atividades,humano
+Como saber se meu certificado é de extensão ou complementar?,tipos_atividades,humano
+Esporte é complementar?,tipos_atividades,humano
+Integra da ufms da que tipo de horas?,tipos_atividades,humano
+Academia escola da algum tipo de horas?,tipos_atividades,humano
+Mesário de eleição dá horas complementares?,tipos_atividades,humano
+Mesário de eleições da hrs de extensão?,tipos_atividades,humano
+Posso fazer horas complementar em outra faculdade?,tipos_atividades,humano
+Qual tipo de evento me dá horas complementares?,tipos_atividades,humano
+Se eu for no cinema eu ganho horas de extensão?,tipos_atividades,humano
+O progeli dá horas de extensão ou complementar?,tipos_atividades,humano
+Cheerleading da horas de extensão?,tipos_atividades,humano
+posso me formar sem hrs complementar?,computo_horas,humano
+posso usar hrs de extensão como complementar?,computo_horas,humano
+Doar sangue da quantas hrs?,computo_horas,humano
+tem limite de horas por ano?,computo_horas,humano
+Posso doar minhas hrs extras pra meus amigos?,computo_horas,humano
+em que semestre preciso fazer as hrs?,computo_horas,humano
+posso usar horas de antes da faculdade?,computo_horas,humano
+ate quando vale meu certificado de hrs de extensão?,computo_horas,humano
+qual o limite de horas complementares ?,computo_horas,humano
+Qual o limite de horas de extensão?,computo_horas,humano
+Da pra formar sem horas complementares?,computo_horas,humano
+Posso usar o msm certificado pra extensão e horas?,computo_horas,humano
+Qantos pontos valem o meu certificado?,computo_horas,humano
+Posso cumprir horas complementares depois de me formar?,computo_horas,humano
+Quantas hrs complementares da pra fazer na semana?,computo_horas,humano
+Oq acontece se eu passar o limite de horas,computo_horas,humano
+Posso fazer hrs complementares no horário das minhas aulas?,computo_horas,humano
+Quantas horas de extensão ganho sendo mesário?,computo_horas,humano
+Posso reaproveitar as hrs de extensão que fiz no meu curso antigo?,computo_horas,humano
+Como consigo 100 horas de extensão até final do mes,computo_horas,humano
+Lutar muay thay na academia escola dá quantas horas?,computo_horas,humano
+Posso usar horas de extensão pra anular falta?,computo_horas,humano
+Quantas hrs dá o progeli?,computo_horas,humano
+Quantas atividades de extensão eu preciso fazer?,computo_horas,humano
+Quantas atividades complementares preciso fazer?,computo_horas,humano
+qnts hrs de extensão,computo_horas,humano
+Qnts hrs de complementar eu preciso,computo_horas,humano
+como ver quantas horas complementares eu já tenho?,organizacao_ufms,humano
+qual edital consulto pontuação de hrs complementares?,organizacao_ufms,humano
+Quem verifica minhas horas enviadas?,organizacao_ufms,humano
+Quanto tempo demora pra responder meu envio de horas de extensão ?,organizacao_ufms,humano
+Posso pedir horas pro meu professor?,organizacao_ufms,humano
+Onde posso tirar duvidas de como fazer extensão e complementar?,organizacao_ufms,humano
+Como ver quantas horas falta pra eu cumprir?,organizacao_ufms,humano
+Onde envio meu certificado?,organizacao_ufms,humano
+Porque meu certificado de hrs de extensão foi recusado?,organizacao_ufms,humano
+Porque meu envio de horas complementares ta como pendente?,organizacao_ufms,humano
+até que dia posso enviar minhas horas de extensão?,organizacao_ufms,humano
+Quem decide quantas hrs vale as atividades ?,organizacao_ufms,humano
+Onde tem info de horas complementares na ufms?,organizacao_ufms,humano
+Mando meus certificados pra proece?,organizacao_ufms,humano
+A Proaes avalia meus certificados de horas?,organizacao_ufms,humano
+Qual email pra mandar minhas horas complementares?,organizacao_ufms,humano
+Como baixar meus certificados de horaz?,organizacao_ufms,humano
+Como saber se já bati minhas horas de extensão?,organizacao_ufms,humano
+Que horas abre a Facom?,fora_dominio,humano
+Ql o cardápio do RU?,fora_dominio,humano
+faculdade funciona no feriado?,fora_dominio,humano
+Tem aula no sabado?,fora_dominio,humano
+q dia é a prova de matemática?,fora_dominio,humano
+Reprovei por falta?,fora_dominio,humano
+Qnts faltas eu preciso pra reprovar?,fora_dominio,humano
+qual email dos meus professores?,fora_dominio,humano
+Como conseguir emprego?,fora_dominio,humano
+q dia começa as aulas?,fora_dominio,humano
+quantos semestre tem meu curso?,fora_dominio,humano
+quais cursos novos da uf?,fora_dominio,humano
+qual nota pra passar em medicina?,fora_dominio,humano
+quais motivos posso ser expulso?,fora_dominio,humano
+Onde vejo vagas de estagio?,fora_dominio,humano
+Quando abre inscrições pro progeli?,fora_dominio,humano
+Quantas materias posso pegar?,fora_dominio,humano
+Oi,chitchat,humano
+Valeu,chitchat,humano
+Thanks,chitchat,humano
+Obrigada,chitchat,humano
+Ta,chitchat,humano
+Tchau,chitchat,humano
+Blz,chitchat,humano
+Obrigado,chitchat,humano
+Falou,chitchat,humano
+Flw,chitchat,humano
+Brigada,chitchat,humano
+Brigado,chitchat,humano
+Hummmm,chitchat,humano
+Hmmm,chitchat,humano
+Kakakak,chitchat,humano
+Ah sim,chitchat,humano
+Beleza,chitchat,humano
+Tmj,chitchat,humano
+Tamo junto,chitchat,humano
