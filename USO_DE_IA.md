@@ -29,11 +29,14 @@
 | # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
 |---|---|---|---|---|
 | 1 | Chatbot | Formatou as intenções no grupo.yaml, baseado no texto em formato livre que foi enviado | _"Esse é o grupo.yaml, preencha a sessão de intenção"_ | Deletamos 3 intenções e reescrita de 2 |
+| 2 | Classificadores | Corrigiu a implementação do classificador de árvore de decisão | _"Corrija o código de árvore de decisão que está sendo usado para ajustar os parâmetros"_ | Reescrita do código de ajuste de parâmetros de treino |
 
 ## 3. O que NÃO foi feito com IA
 
-TODO: digam explicitamente o que foi feito sem IA (ex.: definição das intenções,
-frases do teste, análise dos erros, conclusões).
+Definição das intenções;
+Escrita dos dados de treino e teste (que estão documentados como de origem humana);
+Reunião dos documentos;
+Código de ajuste de hyperparâmetro de rede neural;
 
 ## 4. Reflexão (2 a 4 frases)
 
