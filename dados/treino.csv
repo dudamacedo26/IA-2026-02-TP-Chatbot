@@ -44,6 +44,28 @@ Qual tipo de evento me dá horas complementares?,tipos_atividades,humano
 Se eu for no cinema eu ganho horas de extensão?,tipos_atividades,humano
 O progeli dá horas de extensão ou complementar?,tipos_atividades,humano
 Cheerleading da horas de extensão?,tipos_atividades,humano
+O que pode ser considerada uma atividade de extensão?,tipos_atividades,humano
+Posso fazer atividades de extensão fora da UF?,tipos_atividades,humano
+Apresentação de trabalhos em eventos conta como horas de extensão?,tipos_atividades,humano
+participação em projeto social é considerado como extensão?,tipos_atividades,humano
+Praticar esporte pode ser usado como extensão,tipos_atividades,humano
+O que são atividades complementares,tipos_atividades,humano
+Qualquer tipo de atividade pode ser considerada atividade complementar?,tipos_atividades,humano
+Posso usar uma atividade de extensao como atividede complementar também?,tipos_atividades,humano
+monitoria pode ser cconsiderada uma atividade complementar?,tipos_atividades,humano
+Participar do PET conta como atividade complementar,tipos_atividades,humano
+explique o que é a tabela de pontuação de atividades complementares,tipos_atividades,humano
+Existem matérias que possam contabilizar horas de atividade de extensão ?,tipos_atividades,humano
+Quais tipos de projetos são considerados como atividade de extensão ?,tipos_atividades,humano
+Quando eventos são considerados como atividades de extensão?,tipos_atividades,humano
+Atividades que constariam como de extensão podem ser feitas por instituições de fora ?,tipos_atividades,humano
+Atividades de extensão podem ser atividades pode ser de natureza governamental ?,tipos_atividades,humano
+Horas complementares acima do obrigatório são computadas ?,tipos_atividades,humano
+Premiações até que ponto são válidas como atividades complementares ?,tipos_atividades,humano
+Quais atividades complementares têm a melhor pontuação por cada hora realizada?,tipos_atividades,humano
+Quando Eventos são considerados como atividades Complementares ?,tipos_atividades,humano
+Existem Atividades Complementares únicas a certos Cursos ou áreas ?,tipos_atividades,humano
+Estágios a mais dos obrigatórios podem contar como atividades complementares ?,tipos_atividades,humano
 
 posso me formar sem hrs complementar?,computo_horas,humano
 posso usar hrs de extensão como complementar?,computo_horas,humano
@@ -72,6 +94,26 @@ Quantas atividades de extensão eu preciso fazer?,computo_horas,humano
 Quantas atividades complementares preciso fazer?,computo_horas,humano
 qnts hrs de extensão,computo_horas,humano
 Qnts hrs de complementar eu preciso,computo_horas,humano
+Quantas horas de extensão eu preciso no meu curso?,computo_horas,humano
+Por onde eu faço a comprovação das minhas atividades de extensão,computo_horas,humano
+é possível validar atividades de extensão realizadas antes do ingresso no curso?,computo_horas,humano
+como reconhecer a carga horária de uma atividade de extensão,computo_horas,humano
+TCC(Trabalho de Conclusão de Curso) pode ser considerado como extensão?,computo_horas,humano
+Qual o prazo máximo para eu fazer as horas de extensão?,computo_horas,humano
+Como eu valido as horas de uma atividade complementar?,computo_horas,humano
+Preciso fazer quantas atividades complementares,computo_horas,humano
+Com quem eu tiro dúvidas sobre as atividades complementares?,computo_horas,humano
+quanddo eu devo comprovar as horas das minhas complementares?,computo_horas,humano
+Para quem eu envio os certificados das atividades complementaes,computo_horas,humano
+Tem um limite de tempo para comprovar atividades de extensão ?,computo_horas,humano
+Há alguma diferença nos sistema de horas de extensão se eu as realizo no CCND ?,computo_horas,humano
+É necessário enviar ou validar horas de extensão atreladas a matérias do currículo ?,computo_horas,humano
+Quando as Horas de Extensão não são valores inteiros como sistema computa elas ?,computo_horas,humano
+Em caso de horas de extensão vinda de matérias o que ocorre em caso destas serem removidas em alterações na grade ?,computo_horas,humano
+Como funciona a Tabela Base de Pontuação das Atividades Complementares ?,computo_horas,humano
+Quais documentos devo enviar para validar a Doação de sangue/medula Óssea ?,computo_horas,humano
+No caso da permutação de cursos ás Horas já computadas se mantêm ?,computo_horas,humano
+Quantos pontos são necessários para realizar a quantidade obrigatória ?,computo_horas,humano
 
 como ver quantas horas complementares eu já tenho?,organizacao_ufms,humano
 qual edital consulto pontuação de hrs complementares?,organizacao_ufms,humano
@@ -113,6 +155,17 @@ Onde vejo vagas de estagio?,fora_dominio,humano
 Quando abre inscrições pro progeli?,fora_dominio,humano
 Quantas materias posso pegar?,fora_dominio,humano
 Como faço para trancar minha matrícula?,fora_dominio,llm
+como faço para validar as minhas horas de optativas?,fora_dominio,humano
+Quantas horas de extensão eu preciso em medicina,fora_dominio,humano
+vai chover hoje?,fora_dominio,humano
+quantas horas eu preciso no curso de ciências da computação,fora_dominio,humano
+toque uma música,fora_dominio,humano
+Qual é o número de horas de estágio obrigatório que devo fazer no meu curso ?,fora_dominio,humano
+Qual é o número de semestre até que a jubilação ocorra ?,fora_dominio,humano
+Pode me informar a previsão do tempo de hoje ?,fora_dominio,humano
+Quando será o próximo jogo do Corinthians?,fora_dominio,humano
+O RU fica aberto até as 15 : 00 ?,fora_dominio,humano
+
 
 Oi,chitchat,humano
 Valeu,chitchat,humano
@@ -148,3 +201,13 @@ Entendi,chitchat,humano
 Até mais,chitchat,humano
 Desculpa,chitchat,humano
 Foi mal,chitchat,humano
+Salve,chitchat,humano
+Opa!!,chitchat,humano
+bom dia,chitchat,humano
+Vlw,chitchat,humano
+Valeu,chitchat,humano
+Olá,chitchat,humano
+Oi!!!,chitchat,humano
+E aí ?,chitchat,humano
+Muito Obrigado,chitchat,humano
+Agradeço,chitchat,humano
