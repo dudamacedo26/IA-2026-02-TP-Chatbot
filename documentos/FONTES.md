@@ -12,3 +12,5 @@
 | visualizacao-atividades-complementares | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesComplementaresVisualizacao), acesso em 17/11/2026 |
 | cadastro-atividades-extensao | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesExtensaoCadastro), acesso em 17/11/2026 |
 | visualizacao-atividades-extensao | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesExtensaoVisualizacao), acesso em 17/11/2026 |
+| contatos-proece | texto escrito pelo grupo baseado em (https://proece.ufms.br/diretorias/diex/sepex/ , https://proece.ufms.br/gabinete/), acesso em 18/11/2026 |
+| TUTORIAL-SICERT | texto escrito pelo grupo baseado em (https://proece.ufms.br/files/2023/03/TUTORIAL-SICERT.pdf), acesso em 18/11/2026 |
