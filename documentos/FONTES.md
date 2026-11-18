@@ -6,5 +6,9 @@
 | Resolução nº830 | (https://boletimoficial.ufms.br/publicacao?id=481502), acesso em 31/10/2026 |
 | Resolução nº304 | (https://boletimoficial.ufms.br/publicacao?id=427614), acesso em 31/10/2026 |
 | Instrução Normativa nº4 | (https://boletimoficial.ufms.br/publicacao?id=492228), acesso em 31/10/2026 |
-| Resolução nº706 | (https://boletimoficial.ufms.br/publicacao?id=476540), acesso em 31/10/2026 |
-| Resolução nº1052 | (https://boletimoficial.ufms.br/publicacao?id=518235), acesso em 31/10/2026 |
+| curricularizacaoExtensaoFAQ | texto escrito pelo grupo baseado em (https://proece.ufms.br/curricularizacao/), acesso em 17/11/2026 |
+| listagem-CCND-Siscad | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndIndex), acesso em 17/11/2026 |
+| cadastro-atividades-complementares | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesComplementaresCadastro), acesso em 17/11/2026 |
+| visualizacao-atividades-complementares | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesComplementaresVisualizacao), acesso em 17/11/2026 |
+| cadastro-atividades-extensao | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesExtensaoCadastro), acesso em 17/11/2026 |
+| visualizacao-atividades-extensao | texto escrito pelo grupo baseado em (https://siscad.ufms.br/academico/ajuda#modalCcndAtividadesExtensaoVisualizacao), acesso em 17/11/2026 |

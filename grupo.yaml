@@ -6,14 +6,14 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
-  integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
+  nome: "Grupo X"
+  integrantes:          
+    - nome: "Kauã Finotti Rios"
+      rga: "2024.1906.069-2"
+    - nome: "Maria Eduarda da Silva de Macedo"
+      rga: "2024.1906.050-1"
+    - nome: "Klevin Ryan Ramalho Matos"
+      rga: "2024.1906.016-1"
     - nome: "Sidney Kenzo Goya Miyassato"
       rga: "2019.1906.018-9"
 
@@ -21,7 +21,7 @@ tema:
   nome: "Atividades complementares e extensão"
   descricao: >
     Chatbot informativo sobre as atividades de extensão e a
-    curricularização na UFMS.
+    curricularização de complementares na UFMS.
     O sistema auxilia estudantes a compreender as regras, modalidades,
     contabilização de horas e organização dessas atividades.
 
@@ -42,10 +42,10 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-    Você é um assistente virtual especializado em atividades de extensão
+    Você é um assistente virtual especializado em atividades complementares e de extensão
     da Universidade Federal de Mato Grosso do Sul (UFMS). Seu objetivo é
     auxiliar estudantes a compreender as normas e os procedimentos
-    relacionados à extensão universitária. Seja cordial, didático e
+    relacionados à extensão universitária e as atividades complementares. Seja cordial, didático e
     objetivo. Baseie suas respostas nos documentos oficiais fornecidos.
     Não invente informações. Quando não encontrar uma resposta nos
     documentos, informe suas limitações e indique onde o estudante
@@ -72,29 +72,27 @@ roteamento:
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  computo_horas_extensao:
-    descricao: "Contabilização de horas de extensão"
+  computo_horas:
+    descricao: "Contabilização de horas de extensão e de complementares"
     resposta: >
-      A contabilização das horas de atividade de extensão segue critérios definidos
+      A contabilização das horas de atividade de extensão e de complementares segue critérios definidos
       pelas normas da UFMS. Consulte os documentos oficiais para verificar
       os requisitos e procedimentos.
 
-  tipos_atividades_extensao:
-    descricao: "Tipos de atividades de extensão"
+  tipos_atividades:
+    descricao: "Tipos de atividades de extensão e de complementares"
     resposta: >
-      Existem diferentes modalidades de atividades extensionistas.
+      Existem diferentes modalidades de atividades extensionistas e complementares.
       Consulte os documentos oficiais para conhecer os tipos de atividades
       reconhecidos pela UFMS.
 
-  computo_horas_complementar:
-    descricao: "Contabilização de horas complementares"
+  curricularizacao:
+    descricao: "Informações e definições sobre a curricularização de atividades de extensão e de complementares"
     resposta: >
-      A contabilização das horas de atividades complementares segue critérios definidos
-      pelas normas da UFMS. Consulte os documentos oficiais para verificar
-      os requisitos e procedimentos.
+      A especificação da natureza das atividades extensionestas e complementares está descrita em resoluções e normas da UFMS. Consulte os documentos oficiais para verificar as informações pertinentes.
 
-  tipos_atividades_complementar:
-    descricao: "Tipos de atividades complementares"
+  organizacao_ufms:
+    descricao: "Organização da UFMS"
     resposta: >
       Existem diferentes modalidades de atividades complementares.
       Consulte os documentos oficiais para conhecer os tipos de atividades
