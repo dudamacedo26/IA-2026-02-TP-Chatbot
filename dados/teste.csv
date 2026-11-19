@@ -114,66 +114,44 @@ Onde consigo ver quantas faltas eu tenho em cada materia?,fora_dominio,coletado
 "Se eu faltar no dia da prova por estar doente, como faço pra pedir uma segunda chamada?",fora_dominio,coletado
 Posso andar sem camisa pelo campus da ufms caso esteja competindo em atividades de esportes,fora_dominio,coletado
 "Fala chat, diboa?",chitchat,coletado
-Vlw,chitchat,coletado
 Licença,chitchat,coletado
-Aoba,chitchat,coletado
 Chaaat,chitchat,coletado
 aoba,chitchat,coletado
 fala chef,chitchat,coletado
-tudo certo?,chitchat,coletado
 Firmeza ae,chitchat,coletado
-Salve,chitchat,coletado
 Valeu trem,chitchat,coletado
 "Fala mano! Eai gata?",chitchat,coletado
 valeuu,chitchat,coletado
 valeu demaiss,chitchat,coletado
 tmjt,chitchat,coletado
-tmj,chitchat,coletado
 obgg,chitchat,coletado
 ce ta bom,chitchat,coletado
 Obrigado pela pesquisa,chitchat,coletado
 Oiii,chitchat,coletado
 "Hop, olá, oiiiii, tudo bem?",chitchat,coletado
-oie bom dia,chitchat,coletado
 td bem?,chitchat,coletado
 como vc ta?,chitchat,coletado
 obgggg,chitchat,coletado
 "oi chat, valeu, entendi",chitchat,coletado
-Oiê!,chitchat,coletado
-obrigado,chitchat,coletado
 Olá pessoal que irá participar do curso tudo bem?,chitchat,coletado
 opa man so de boa,chitchat,coletado
 oi tudo bem?,chitchat,coletado
 "Ola, tudo bem ?",chitchat,coletado
 "opa eae, tudo bom?",chitchat,coletado
 Como vai?,chitchat,coletado
-Bom dia,chitchat,coletado
 Tenho uma dúvida,chitchat,coletado
-Boa tarde,chitchat,coletado
-Blz?,chitchat,coletado
-Boa noite,chitchat,coletado
-E ai,chitchat,coletado
 Tranquilo?,chitchat,coletado
 Tenho uma dúvida aqui,chitchat,coletado
 Com licença,chitchat,coletado
 Opa tudo bom?,chitchat,coletado
 Gostaria de saber,chitchat,coletado
-Valeu,chitchat,coletado
-Obrigado,chitchat,coletado
 Vai me ajudar bastante,chitchat,coletado
 Vc é demais,chitchat,coletado
-Agradeço,chitchat,coletado
 Bom trabalho,chitchat,coletado
 Chau,chitchat,coletado
-Falou,chitchat,coletado
-Até mais,chitchat,coletado
-"Olá, como vai?",chitchat,coletado
 "ola, como vai",chitchat,coletado
 oie,chitchat,coletado
-Oie!,chitchat,coletado
 tudo certo?,chitchat,coletado
-Tudo certo?,chitchat,coletado
-estou falando com quem,chitchat,coletado
 Estou falando com quem?,chitchat,coletado
 "eae, tudo certo?",chitchat,coletado
 valeu pela ajuda,chitchat,coletado
@@ -184,3 +162,40 @@ Oi bom dia vc tá bem?,chitchat,coletado
 "Opa, tudo bem? queria tirar uma duvida mas não sei direito como explicar, pode me ajudar?",chitchat,coletado
 "Oii, obrigada viu, qualquer coisa eu chamo de novo pq fiquei meio perdida kkkkk",chitchat,coletado
 Fala pivete,chitchat,coletado
+Alguém sabe dizer oq seria atividades de extensão e atividades orientadas de ensino?,curricularizacao_extensao,coletado
+galera onde nos registra horas de extensao,organizacao_ufms,coletado
+Tem algum grupo que o povo manda as oportunidades de extensão e projetos?,organizacao_ufms,coletado
+como q seis pagaram horas de extensão,computo_horas,coletado
+"Gente uma bolsa de extensão é considerada uma renda pro estudante? (Sendo que é temporário)",atividades_remuneradas,coletado
+"mas como exatamente faz parte de um projeto de extensão? pelo que pesquisei antes, tem como entrar em contatos com diferentes projetos e solicitar participação, certo isso?",tipos_atividades,coletado
+como obter horas tanto de complementares e extensão,tipos_atividades,coletado
+certificado do pet serve pra complementares ou extensão?,tipos_atividades,coletado
+As AOE Contam pra matar as 300h de extensão??,computo_horas,coletado
+Pantanal dev n entra em projeto de extensao?,tipos_atividades,coletado
+NES da extensao?,tipos_atividades,coletado
+Dicipinas optativas contam como atividades de extensão mano?,tipos_atividades,coletado
+"A gente é obrigado a fazer pelo menos 300 e poucas horas de extensão, não é?",computo_horas,coletado
+Posso validar meu estágio obrigatorio como extensão,atividades_remuneradas,humano
+pra que serve extensão no curriculo,curricularizacao_extensao,humano
+posso por extensao no linkedin,curricularizacao_extensao,humano
+freelance pode contar como horas de extensão?,atividades_remuneradas,humano
+dar monitoria recebendo bolsa conta como horas de extensão?,atividades_remuneradas,humano
+doar sangue fora do pais por um valor de volta dá horas de extensão?,atividades_remuneradas,humano
+se eu fizer estagio em campo conta como horas de extensão?,atividades_remuneradas,humano
+ENAPET da horas de extensão ou pesquisa?,tipos_atividades,humano
+posso receber horas de extensão sendo bolsista?,atividades_remuneradas,humano
+posso fazer mais de um projeto de extensão ao mesmo tempo?,computo_horas,humano
+se eu incluir uma atividade de estensao no meu estagio ganho horas?,atividades_remuneradas,humano
+LEDES com bolsa dá horas?,atividades_remuneradas,humano
+posso pagar por horas de extensão?,computo_horas,humano
+au pair dá horas de extensão?,atividades_remuneradas,humano
+babá da horas de extensão?,atividades_remuneradas,humano
+porque não recebo horas de extensão se particito como ouvinte da palestra mas recebo de extensão se minisstro?,tipos_atividades,humano
+como diferenciar complementar de extensao?,curricularizacao_extensao,humano
+é verdade que algumas horas complementares valem como de extensão?,curricularizacao_extensao,humano
+se eu fizer dois estagio o segundo entra integralemnte como hr de extensão ?,atividades_remuneradas,humano
+pq alguns cursos n tem obrigatoriedade de hrs de extensão?,curricularizacao_extensao,humano
+pode me explicar de forma direta a diferença entre complementar, extensao, ensino e pesquisa?,curricularizacao_extensao,humano
+posso fazer horas de extensão msm n sendo obrigatorio no meu curriculo?,curricularizacao_extensao,humano
+oq acontece se eu ultrapassar minhas hrs de extensão?,computo_horas,humano
+curso sem horas de extensão obrgatoria são mais faceis?,curricularizacao_extensao,humano
