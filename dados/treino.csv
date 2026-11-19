@@ -11,20 +11,84 @@ Voluntário dá mais horas que remunerado?,atividades_remuneradas,humano
 "Trabalho na UFMS, posso usar isso como extensão?",atividades_remuneradas,humano
 Monitoria remunerada conta como atividade de extensão?,atividades_remuneradas,llm
 Se eu receber dinheiro por um projeto perco minhas horas?,atividades_remuneradas,llm
+Uma atividade remunerada pode ser considerada para as atividades complementares ou de extensão?,atividades_remuneradas,llm
+O fato de receber uma bolsa impede que uma atividade seja aproveitada nessas modalidades?,atividades_remuneradas,llm
+Posso apresentar meu contrato de trabalho como comprovante de uma atividade remunerada?,atividades_remuneradas,llm
+Um estágio remunerado pode ser aceito como atividade complementar ou de extensão?,atividades_remuneradas,llm
+Há alguma diferença na análise de uma atividade para horas complementares quando ela é remunerada?,atividades_remuneradas,llm
+Uma bolsa de pesquisa com pagamento pode ser reconhecida como atividade complementar?,atividades_remuneradas,llm
+Trabalho remunerado pode entrar nas atividades complementares?,atividades_remuneradas,llm
+Estágio conta como complementar, mesmo sendo remunerado?,atividades_remuneradas,llm
+"Se eu recebo bolsa, isso muda alguma coisa para atividades de extensão?",atividades_remuneradas,llm
+Atividade voluntária deixa de valer como complementar se tiver ajuda de custo?,atividades_remuneradas,llm
+Posso usar meu emprego como atividade complementar?,atividades_remuneradas,llm
+Trabalho como jovem aprendiz pode ser aproveitado horas complementaes?,atividades_remuneradas,llm
+Atividade paga pode ser validada como hora de extensão mesmo sendo fora da universidade?,atividades_remuneradas,llm
+atividade remunerada pode ser aceita nas atividades complementares ou precisa ser voluntaria,atividades_remuneradas,llm
+se eu recebo bolsa pela atividade isso muda alguma coisa na validação de horas,atividades_remuneradas,llm
+se a atividade é paga eu preciso informar o valor que recebo no pedido de validação de horas complementares,atividades_remuneradas,llm
+atividade remunerada precisa ter relação com meu curso pra ser aceita como complementar,atividades_remuneradas,llm
+Trabalho como jovem aprendiz e preciso resolver isso logo: essa experiência remunerada pode entrar como atividade complementar?,atividades_remuneradas,llm
+"Tenho um emprego registrado na minha área, mas não sei se a faculdade considera trabalho pago para validar horas de extensão ou complementaes. Como confirmo?",atividades_remuneradas,llm
+"Meu estágio é pago, mas não tem relação direta com o curso. Ainda assim posso solicitar que ele seja considerado como atividade complementar?",atividades_remuneradas,llm
+Estágio remunerado vale como extensão?,atividades_remuneradas,llm
+Pesquisa remunerada pode ser usada como horas complementaes,atividades_remuneradas,llm
+Voluntariado pago ainda vale como complementar?,atividades_remuneradas,llm
+Atividade profissional paga pode ser validada como ação de extensão,atividades_remuneradas,llm
 
-Pq preciso fazer hrs complementares?,curricularizacao_extensao,humano
-todo curso tem hrs de extensão?,curricularizacao_extensao,humano
-Qual a diferença de extensão pra estágio?,curricularizacao_extensao,humano
-Só tem extensão e complementar na UFMS?,curricularizacao_extensao,humano
-Oq eh hr extensão?,curricularizacao_extensao,humano
-O que significa curricularização da extensão?,curricularizacao_extensao,llm
-Extensão é obrigatório?,curricularizacao_extensao,humano
-Minha graduação precisa ter extensão?,curricularizacao_extensao,humano
-Qual a diferença entre extensão e pesquisa?,curricularizacao_extensao,humano
-Extensão é a mesma coisa que atividade complementar?,curricularizacao_extensao,llm
-Exxtensão fazem parte da grade?,curricularizacao_extensao,humano
-O que são projetos de extensão universitária?,curricularizacao_extensao,llm
-Tem matéria de extensão?,curricularizacao_extensao,humano
+Pq preciso fazer hrs complementares?,curricularizacao,humano
+todo curso tem hrs de extensão?,curricularizacao,humano
+Qual a diferença de extensão pra estágio?,curricularizacao,humano
+Só tem extensão e complementar na UFMS?,curricularizacao,humano
+Oq eh hr extensão?,curricularizacao,humano
+O que significa curricularização da extensão?,curricularizacao,llm
+Extensão é obrigatório?,curricularizacao,humano
+Minha graduação precisa ter extensão?,curricularizacao,humano
+Qual a diferença entre extensão e pesquisa?,curricularizacao,humano
+Extensão é a mesma coisa que atividade complementar?,curricularizacao,llm
+Exxtensão fazem parte da grade?,curricularizacao,humano
+O que são projetos de extensão universitária?,curricularizacao,llm
+Tem matéria de extensão?,curricularizacao,humano
+Você poderia me explicar o que significa curricularizar as atividades de extensão na graduação?,curricularizacao,llm
+"Por gentileza, como a curricularização da extensão se relaciona com a formação acadêmica dos estudantes?",curricularizacao,llm
+Qual é a diferença conceitual entre atividades de extensão curricularizadas e atividades complementares?,curricularizacao,llm
+A curricularização da extensão é uma diretriz para todos os cursos de graduação?,curricularizacao,llm
+Como a extensão passa a fazer parte do currículo de um curso universitário?,curricularizacao,llm
+Você poderia esclarecer o que caracteriza a curricularização das atividades de extensão?,curricularizacao,llm
+As atividades complementares também são consideradas parte do currículo acadêmico?,curricularizacao,llm
+"Por favor, qual é o propósito de incluir a extensão no projeto pedagógico de um curso?",curricularizacao,llm
+Como se distingue a curricularização da extensão da participação extracurricular em ações universitárias?,curricularizacao,llm
+"O que muda, em termos conceituais, quando a extensão é incorporada ao currículo da graduação?",curricularizacao,llm
+Extensão curricularizada é a mesma coisa que atividade complementar?,curricularizacao,llm
+A curricularização da extensão é obrigatória pra todo curso?,curricularizacao,llm
+Pq a extensão passou a fazer parte do currículo?,curricularizacao,llm
+Qual é a diferença entre extensão curricularizada e extensão universitária?,curricularizacao,llm
+A curricularização muda a estrutura do curso?,curricularizacao,llm
+As atividades complementares também fazem parte da curricularização da extensão?,curricularizacao,llm
+O que a faculdade quer dizer quando fala em extensão integrada ao currículo?,curricularizacao,llm
+Essa mudança vale só pros alunos que entram agora?,curricularizacao,llm
+o que significa curricularização da extensão na faculdade,curricularizacao,llm
+queria entender melhor como funciona a curricularização das atividades complementares,curricularizacao,llm
+a curricularização da extensão faz parte da formação do curso,curricularizacao,llm
+nao entendi o que muda com a extensão dentro do curriculo,curricularizacao,llm
+como a curricularização da extensão se relaciona com o projeto pedagogico do curso,curricularizacao,llm
+a extensão curricularizada é considerada parte do ensino universitário,curricularizacao,llm
+Estou confuso com os termos. Atividades complementares e extensão curricularizada são a mesma coisa?,curricularizacao,llm
+A curricularização da extensão muda a estrutura do curso ou é só uma nova forma de chamar as atividades?,curricularizacao,llm
+A extensão passa a fazer parte do currículo quando é curricularizada? Preciso confirmar isso antes de conversar com a coordenação.,curricularizacao,llm
+"Estou preocupado porque não sei o que a universidade quer dizer com “curricularização da extensão”. Qual é a definição, afinal?",curricularizacao,llm
+Atividade complementar é considerada uma parte da curricularização da extensão ou são conceitos separados? Preciso tirar essa dúvida agora.,curricularizacao,llm
+Por que a extensão precisa ser integrada ao currículo do curso? Estou tentando entender a ideia por trás dessa mudança.,curricularizacao,llm
+O que é curricularização?,curricularizacao,llm
+Definição de extensão curricular,curricularizacao,llm
+Atividades complementares são obrigatórias?,curricularizacao,llm
+Extensão faz parte do currículo?,curricularizacao,llm
+Qual o objetivo da curricularização?,curricularizacao,llm
+Diferença entre extensão e complementares,curricularizacao,llm
+Como funciona a curricularização?,curricularizacao,llm
+Conceito de atividades complementares,curricularizacao,llm
+Extensão integrada ao curso,curricularizacao,llm
+Curricularização na graduação,curricularizacao,llm
 
 pet da que tipo de hora?,tipos_atividades,humano
 como conseguir hrs de extensão?,tipos_atividades,humano
@@ -66,6 +130,45 @@ Quais atividades complementares têm a melhor pontuação por cada hora realizad
 Quando Eventos são considerados como atividades Complementares ?,tipos_atividades,humano
 Existem Atividades Complementares únicas a certos Cursos ou áreas ?,tipos_atividades,humano
 Estágios a mais dos obrigatórios podem contar como atividades complementares ?,tipos_atividades,humano
+Quais tipos de projetos de extensão posso realizar durante a graduação?,tipos_atividades,llm
+Poderia me informar se participar de campanhas de saúde é considerado uma atividade de extensão?,tipos_atividades,llm
+Que tipos de atividades complementares relacionadas à pesquisa são aceitos?,tipos_atividades,llm
+Participar de um grupo de estudos pode ser considerado atividade complementar?,tipos_atividades,llm
+Gostaria de saber se cursos de idiomas podem ser aproveitados como atividades complementares.,tipos_atividades,llm
+Quais atividades culturais podem ser reconhecidas como complementares?,tipos_atividades,llm
+A participação em ações de voluntariado comunitário pode ser considerada atividade de extensão?,tipos_atividades,llm
+Poderia dar exemplos de eventos acadêmicos que podem ser classificados como atividades complementares?,tipos_atividades,llm
+Atuar na organização de uma feira de ciências para a comunidade se enquadra como atividade de extensão?,tipos_atividades,llm
+Quais tipos de oficinas ou cursos oferecidos à comunidade podem ser considerados ações de extensão?,tipos_atividades,llm
+Quais tipos de atividade contam como extensão?,tipos_atividades,llm
+Participar de feira de ciências entra como atividade complementar?,tipos_atividades,llm
+Visita técnica entra em qual tipo de atividade?,tipos_atividades,llm
+Oficina aberta pra comunidade é atividade de extensão?,tipos_atividades,llm
+Monitoria pode entrar como atividade complementar?,tipos_atividades,llm
+Iniciação científica é considerada atividade complementar?,tipos_atividades,llm
+Ajudar na organização de um evento acadêmico se encaixa em qual tipo?,tipos_atividades,llm
+participar de campanha de arrecadação conta como atividade complementar,tipos_atividades,llm
+projeto de pesquisa pode ser considerado atividade complementar,tipos_atividades,llm
+tem como fazer extensão dando aula em cursinho comunitario,tipos_atividades,llm
+participar de congresso e seminario vale como atividade complementar,tipos_atividades,llm
+quais atividades de voluntariado posso fazer pela universidade,tipos_atividades,llm
+fazer curso de fotografia pode contar como atividade complementar,tipos_atividades,llm
+liga academica é considerado atividade complementar,tipos_atividades,llm
+Tô preenchendo meu plano de atividades e não sei quais opções entram como extensão e quais são complementares. Pode me dar alguns exemplos?,tipos_atividades,llm
+"Tenho que escolher uma atividade pra começar esta semana, mas estou perdido entre eventos, cursos e projetos. Quais tipos existem em cada categoria?",tipos_atividades,llm
+Participo de um grupo de teatro da comunidade e também de um congresso da área. Isso pode ser considerado atividade de extensão ou complementar?,tipos_atividades,llm
+Preciso decidir logo em qual projeto me inscrever. Ações voluntárias e campanhas educativas são atividades de extensão?,tipos_atividades,llm
+Faço cursos on-line por conta própria e queria saber se esse tipo de formação pode ser considerado atividade complementar. Que outros tipos costumam ser aceitos?,tipos_atividades,llm
+"Quero participar de algo fora da sala de aula, mas não sei o que procurar. Feiras, oficinas e atividades culturais podem entrar como extensão ou complementar?",tipos_atividades,llm
+Minha turma vai organizar uma ação de educação ambiental no bairro. Isso se encaixa em algum tipo de atividade de extensão?,tipos_atividades,llm
+Vou me inscrever em um evento acadêmico amanhã e estou na dúvida se participação em congresso é atividade complementar ou de extensão. Como diferenciar?,tipos_atividades,llm
+"Tenho interesse em ajudar numa campanha de saúde da comunidade, mas também quero fazer um curso de idiomas. Qual dessas opções pode ser classificada como extensão e qual como complementar?",tipos_atividades,llm
+Oficinas são extensão?,tipos_atividades,llm
+Pesquisa é complementar ou extensao?,tipos_atividades,llm
+Cursos extracurriculares?,tipos_atividades,llm
+Estágio não obrigatório conta como complementar?,tipos_atividades,llm
+Empresa júnior é valido como extensão ou complementar?,tipos_atividades,llm
+Quais atividades culturais podem ser consideradas complementares?,tipos_atividades,llm
 
 posso me formar sem hrs complementar?,computo_horas,humano
 posso usar hrs de extensão como complementar?,computo_horas,humano
@@ -114,6 +217,39 @@ Como funciona a Tabela Base de Pontuação das Atividades Complementares ?,compu
 Quais documentos devo enviar para validar a Doação de sangue/medula Óssea ?,computo_horas,humano
 No caso da permutação de cursos ás Horas já computadas se mantêm ?,computo_horas,humano
 Quantos pontos são necessários para realizar a quantidade obrigatória ?,computo_horas,humano
+Qual é o procedimento para solicitar a contabilização das horas que ainda não aparecem no sistema?,computo_horas,llm
+Quais documentos devo apresentar para comprovar as horas realizadas?,computo_horas,llm
+Existe um prazo para enviar os comprovantes e pedir o registro das horas complementaes?,computo_horas,llm
+Como posso corrigir uma contabilização feita com uma quantidade de horas diferente da comprovada?,computo_horas,llm
+As horas são contabilizadas integralmente ou há um limite máximo por atividade?,computo_horas,llm
+Posso acompanhar o andamento da análise dos comprovantes enviados para contabilização?,computo_horas,llm
+"Se eu enviar o mesmo comprovante mais de uma vez, há risco de as horas serem registradas em duplicidade?",computo_horas,llm
+Como devo proceder se minhas horas de extensão ou complementares forem recusadas para contabilização?,computo_horas,llm
+É possível solicitar a revisão do total de horas registrado no meu histórico acadêmico?,computo_horas,llm
+Como faço pra lançar minhas horas no sistema?,computo_horas,llm
+As horas contam depois que envio o certificado ou só quando aprovam?,computo_horas,llm
+Tem limite de horas que posso contabilizar por semestre?,computo_horas,llm
+Quanto tempo demora pra atualizar o saldo depois do envio dos certificados?,computo_horas,llm
+"Enviei os comprovantes, mas minhas horas ainda não apareceram. E agora?",computo_horas,llm
+Posso juntar vários certificados num único pedido de contabilização?,computo_horas,llm
+O certificado precisa informar a carga horária certinha pra contabilizar?,computo_horas,llm
+Até quando posso pedir a contabilização das horas desse semestre?,computo_horas,llm
+como faço pra lançar as horas de extensão no sistema,computo_horas,llm
+tem um limite de horas que posso contabilizar por semestre,computo_horas,llm
+enviei os certificados mas a carga horaria ficou errada,computo_horas,llm
+quanto tempo demora pra validarem minhas horas complementares,computo_horas,llm
+o certificado precisa ter a carga horaria escrita pra contar,computo_horas,llm
+como corrijo o lançamento de horas que fiz errado,computo_horas,llm
+perdi o prazo pra enviar as horas de extensão tem como pedir revisão,computo_horas,llm
+as horas que sobraram de um semestre passam pro proximo,computo_horas,llm
+"Estou com 38 horas lançadas no sistema, mas meu certificado comprova 45. Como peço a correção antes do fechamento do semestre?",computo_horas,llm
+Meu pedido de validação aparece como “pendente” há bastante tempo. Isso costuma demorar? Estou preocupada com o prazo.,computo_horas,llm
+Enviei dois certificados no mesmo arquivo e só um foi considerado. Como faço para incluir o outro sem perder o prazo?,computo_horas,llm
+"No meu histórico, as horas aparecem em duplicidade. Isso pode prejudicar meu total ou dá para corrigir?",computo_horas,llm
+"O sistema mostra que meu comprovante foi aprovado, mas a quantidade de horas continua zerada. O que devo fazer?",computo_horas,llm
+Fiz uma solicitação de contabilização e não recebi retorno. Há como acompanhar o andamento?,computo_horas,llm
+que tipo de comprovante de horas é aceito aceito?,computo_horas,llm
+
 
 como ver quantas horas complementares eu já tenho?,organizacao_ufms,humano
 qual edital consulto pontuação de hrs complementares?,organizacao_ufms,humano
@@ -133,9 +269,44 @@ A Proaes avalia meus certificados de horas?,organizacao_ufms,humano
 Qual email pra mandar minhas horas complementares?,organizacao_ufms,humano
 Como baixar meus certificados de horaz?,organizacao_ufms,humano
 Como saber se já bati minhas horas de extensão?,organizacao_ufms,humano
-Dá horas de extansão?,organizacao_ufms,humano
-O que é o coordenador de curso?,organizacao_ufms,humano
-Quem é o coordenador de curso?,organizacao_ufms,humano
+Por onde me informar das horas de extansão?,organizacao_ufms,humano
+Como posso consultar quantas horas de extensão e complementares já foram contabilizadas no meu histórico?,organizacao_ufms,llm
+Onde vejo quantas horas já foram validadas?,organizacao_ufms,llm
+Poderia me informar qual setor da UFMS é responsável por orientar os estudantes sobre atividades complementares e extensão?,organizacao_ufms,llm
+Como a UFMS organiza o atendimento sobre atividades complementares e extensão nos diferentes câmpus?,organizacao_ufms,llm
+A quem devo procurar na minha unidade da UFMS para tirar dúvidas sobre atividades complementares e extensão?,organizacao_ufms,llm
+Existe uma coordenação central na UFMS que acompanha as ações relacionadas a atividades complementares e extensão?,organizacao_ufms,llm
+Como posso descobrir qual pró-reitoria da UFMS responde por assuntos de extensão?,organizacao_ufms,llm
+O atendimento sobre atividades complementares é feito pela coordenação do curso ou por outro setor da UFMS?,organizacao_ufms,llm
+A UFMS possui uma página oficial com os contatos dos setores que tratam de atividades complementares e extensão?,organizacao_ufms,llm
+Quem é responsável por divulgar orientações sobre atividades complementares e extensão no meu câmpus?,organizacao_ufms,llm
+"Se eu estudar em um câmpus fora de Campo Grande, devo procurar a mesma unidade administrativa da sede da UFMS?",organizacao_ufms,llm
+Poderia explicar como as coordenações de curso e os setores institucionais da UFMS se articulam nesses assuntos?,organizacao_ufms,llm
+A PROECE fica em qual prédio da UFMS?,organizacao_ufms,llm
+Quem é responsável pela extensão na UFMS?,organizacao_ufms,llm
+A UFMS tem uma pró-reitoria só pra extensão?,organizacao_ufms,llm
+Qual setor da UFMS atende os estudantes sobre extensão?,organizacao_ufms,llm
+Como descubro quem coordena isso no meu campus?,organizacao_ufms,llm
+A PROECE responde direto à reitoria?,organizacao_ufms,llm
+Tem atendimento da PROECE nos outros campi da UFMS?,organizacao_ufms,llm
+Onde vejo o organograma da UFMS?,organizacao_ufms,llm
+A coordenação do meu curso pode ajudar com dúvidas sobre extensão?,organizacao_ufms,llm
+Quem cuida das atividades de extensão na faculdade?,organizacao_ufms,llm
+qual setor da ufms cuida das atividades de extensão,organizacao_ufms,llm
+a proece fica ligada direto a reitoria ou a outra pró reitoria,organizacao_ufms,llm
+no meu campus tem algum responsavel pelas atividades complementares,organizacao_ufms,llm
+quem eu procuro na facom pra tirar duvida sobre atividades complementares,organizacao_ufms,llm
+a coordenação do curso responde pelas atividades de extensão ou é a proece,organizacao_ufms,llm
+tem uma secretaria da extensão em cada campus da ufms,organizacao_ufms,llm
+onde acho o contato do setor que organiza as atividades de extensão,organizacao_ufms,llm
+quem é responsavel por orientar os alunos sobre atividades complementares na ufms,organizacao_ufms,llm
+as atividades de extensão são organizadas pela proece ou pelas unidades dos cursos,organizacao_ufms,llm
+qual setor da ufms devo procurar se minha duvida for sobre a organização das atividades do meu curso,organizacao_ufms,llm
+Tô perdida com a estrutura da UFMS: quem é responsável por orientar os estudantes sobre atividades complementares e extensão?,organizacao_ufms,llm
+"Na UFMS, a quem devo encaminhar uma dúvida sobre atividades de extensão: à direção da unidade ou à Pró-Reitoria?",organizacao_ufms,llm
+A coordenação do meu curso não respondeu ainda. Existe algum setor da UFMS acima dela que possa me orientar?,organizacao_ufms,llm
+Meu curso fica em outro campus da UFMS e preciso saber se cada campus tem um atendimento próprio para esse tema.,organizacao_ufms,llm
+"Preciso de uma resposta rápida sobre quem responde sobre atividades de extensão e complementares na UFMS: é a coordenação, a direção da unidade ou uma pró-reitoria?",organizacao_ufms,llm
 
 Que horas abre a Facom?,fora_dominio,humano
 Ql o cardápio do RU?,fora_dominio,humano
