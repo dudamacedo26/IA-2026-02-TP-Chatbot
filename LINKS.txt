@@ -1,4 +1,4 @@
 # Links da entrega - preencha depois de publicar o vídeo.
 # O vídeo deve ser público ou "não listado" (YouTube) / aberto a quem tem o link (Drive).
-video: https://drive.google.com/file/d/1rp0PL5MbrOWUlSPw–R-1DH5k553uaIO/view?usp=sharing
+video: https://drive.google.com/file/d/1rp0PL5MbrOWUlSPw--R-1DH5k553uaIO/view?usp=sharingview?usp=sharing
 repositorio: https://github.com/dudamacedo26/IA-2026-02-TP-Chatbot
