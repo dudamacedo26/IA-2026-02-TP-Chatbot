@@ -40,6 +40,7 @@
 | **Artigo** | Elaborou textos acadêmicos com base nos conteúdos fornecidos para cada tópico relevante, servindo como referência para a construção do artigo final. | `"Com base no conteúdo fornecido sobre o tópico [X], dê alguns exemplos de como poderia ser elaborado um texto de cunho acadêmico."` | Foram gerados diversos textos sobre diferentes tópicos, utilizados como base para a elaboração da versão final do artigo. |
 | **Artigo** | Padronizou e formatou as referências bibliográficas de acordo com o modelo exigido para o artigo. | `"Seguindo o padrão SBC, padronize e formate as referências."` | As referências foram formatadas e padronizadas de acordo com as normas do modelo SBC. |
 | **Artigo** | Traduziu o resumo do artigo para o inglês, elaborando o abstract. | `"Realize a tradução do resumo do artigo para o inglês (abstract)."` | Foi realizada a tradução do resumo original do artigo para o inglês. |
+| **Treino** | Complementação das frases de treino. | `"Faça mais essas frases de treino da categoria (2 categorias que faltaram)."` | Foi realizada a criação de mais frases. |
 
 ## 3. O que NÃO foi feito com IA
 
@@ -47,6 +48,7 @@ Definição das intenções;
 Escrita dos dados de treino e teste (que estão documentados como de origem humana);
 Reunião dos documentos;
 Código de ajuste de hyperparâmetro de rede neural;
+Código do limiar de confiança;
 
 ## 4. Reflexão (2 a 4 frases)
 
