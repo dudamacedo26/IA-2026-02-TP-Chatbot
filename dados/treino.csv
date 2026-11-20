@@ -321,7 +321,6 @@ Ql o cardápio do RU?,fora_dominio,humano
 faculdade funciona no feriado?,fora_dominio,humano
 Tem aula no sabado?,fora_dominio,humano
 q dia é a prova de matemática?,fora_dominio,humano
-texto,intencao,origem
 "Qual é a capital da França?",fora_dominio,humano
 "Quem descobriu o Brasil?",fora_dominio,humano
 "Qual é o maior país do mundo?",fora_dominio,humano
