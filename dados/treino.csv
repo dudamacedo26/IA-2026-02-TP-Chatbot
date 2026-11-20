@@ -7,6 +7,20 @@ Posso conseguir horas de extensão no meu estágio remunerado?,atividades_remune
 "Trabalho como bolsista na faculdade, isso conta como extensão?",atividades_remuneradas,llm
 Estágio obrigatório pode contar como horas de extensão?,atividades_remuneradas,humano
 Estágio não obrigatório vale como atividade complementar?,atividades_remuneradas,humano
+"Trabalho remunerado pode contar como atividade complementar?",atividades_remuneradas,humano
+"Posso aproveitar meu emprego para conseguir horas complementares?",atividades_remuneradas,humano
+"Atividades de extensão que recebem pagamento são válidas?",atividades_remuneradas,humano
+"Um estágio remunerado pode ser contabilizado como atividade complementar?",atividades_remuneradas,humano
+"Receber bolsa interfere no aproveitamento das horas de extensão?",atividades_remuneradas,humano
+"Posso utilizar minha bolsa de pesquisa para conseguir horas complementares?",atividades_remuneradas,humano
+"Atividades remuneradas precisam de algum comprovante específico?",atividades_remuneradas,humano
+"Se eu receber para participar de um projeto de extensão ainda posso contabilizar as horas?",atividades_remuneradas,humano
+"Trabalhar como monitor recebendo bolsa vale como atividade complementar?",atividades_remuneradas,humano
+"Existe diferença entre atividades voluntárias e remuneradas para o cômputo de horas?",atividades_remuneradas,humano
+"Uma atividade profissional remunerada pode ser aproveitada na graduação?",atividades_remuneradas,humano
+"Posso contabilizar horas de um projeto de pesquisa com bolsa?",atividades_remuneradas,humano
+"Participar de um programa remunerado da universidade gera horas complementares?",atividades_remuneradas,humano
+"Quem recebe bolsa de extensão pode aproveitar a participação para obter horas?",atividades_remuneradas,humano
 Voluntário dá mais horas que remunerado?,atividades_remuneradas,humano
 "Trabalho na UFMS, posso usar isso como extensão?",atividades_remuneradas,humano
 Monitoria remunerada conta como atividade de extensão?,atividades_remuneradas,llm
@@ -307,6 +321,152 @@ Ql o cardápio do RU?,fora_dominio,humano
 faculdade funciona no feriado?,fora_dominio,humano
 Tem aula no sabado?,fora_dominio,humano
 q dia é a prova de matemática?,fora_dominio,humano
+texto,intencao,origem
+"Qual é a capital da França?",fora_dominio,humano
+"Quem descobriu o Brasil?",fora_dominio,humano
+"Qual é o maior país do mundo?",fora_dominio,humano
+"Quantos continentes existem?",fora_dominio,humano
+"Qual é a população do Japão?",fora_dominio,humano
+"Por que o céu é azul?",fora_dominio,humano
+"Como funciona a gravidade?",fora_dominio,humano
+"Qual é a velocidade da luz?",fora_dominio,humano
+"O que são buracos negros?",fora_dominio,humano
+"Como acontece um eclipse solar?",fora_dominio,humano
+"Qual é o maior animal do planeta?",fora_dominio,humano
+"Por que os dinossauros foram extintos?",fora_dominio,humano
+"Como funciona a fotossíntese?",fora_dominio,humano
+"O que é uma célula?",fora_dominio,humano
+"Como os vulcões entram em erupção?",fora_dominio,humano
+"Qual é a diferença entre clima e tempo?",fora_dominio,humano
+"Por que o oceano é salgado?",fora_dominio,humano
+"Como surgiram os primeiros seres humanos?",fora_dominio,humano
+"Qual é o planeta mais próximo do Sol?",fora_dominio,humano
+"Quantas luas Saturno possui?",fora_dominio,humano
+"Como funciona um motor elétrico?",fora_dominio,humano
+"O que é energia renovável?",fora_dominio,humano
+"Como funciona uma usina hidrelétrica?",fora_dominio,humano
+"Qual é a diferença entre energia solar e eólica?",fora_dominio,humano
+"Como é produzido o vidro?",fora_dominio,humano
+"Como funciona a internet?",fora_dominio,humano
+"O que é inteligência artificial?",fora_dominio,humano
+"Explique o que é aprendizado de máquina.",fora_dominio,humano
+"Como funciona um banco de dados?",fora_dominio,humano
+"Qual é a diferença entre Java e Python?",fora_dominio,humano
+"Como criar uma página em HTML?",fora_dominio,humano
+"O que significa programação orientada a objetos?",fora_dominio,humano
+"Como funciona uma rede neural?",fora_dominio,humano
+"O que é computação em nuvem?",fora_dominio,humano
+"Explique o conceito de algoritmo.",fora_dominio,humano
+"Como funciona o sistema operacional Linux?",fora_dominio,humano
+"Qual linguagem de programação devo aprender primeiro?",fora_dominio,humano
+"Como corrigir um erro de sintaxe em Python?",fora_dominio,humano
+"O que é uma API REST?",fora_dominio,humano
+"Como funciona o protocolo HTTP?",fora_dominio,humano
+"Qual é a diferença entre memória RAM e armazenamento?",fora_dominio,humano
+"Como montar um computador para jogos?",fora_dominio,humano
+"Qual placa de vídeo vale mais a pena?",fora_dominio,humano
+"Como melhorar o desempenho do Windows?",fora_dominio,humano
+"Qual é o melhor navegador de internet?",fora_dominio,humano
+"Como proteger meu computador contra vírus?",fora_dominio,humano
+"Qual é a diferença entre SSD e HD?",fora_dominio,humano
+"Como configurar uma rede Wi-Fi?",fora_dominio,humano
+"Por que meu computador está lento?",fora_dominio,humano
+"Como fazer backup dos meus arquivos?",fora_dominio,humano
+"Qual é a melhor distribuição Linux para iniciantes?",fora_dominio,humano
+"Como preparar um bolo de chocolate?",fora_dominio,humano
+"Qual é a receita tradicional de lasanha?",fora_dominio,humano
+"Como fazer arroz soltinho?",fora_dominio,humano
+"Quais ingredientes são necessários para fazer pão?",fora_dominio,humano
+"Como preparar um café gelado?",fora_dominio,humano
+"Qual é a diferença entre fermento químico e biológico?",fora_dominio,humano
+"Como conservar frutas por mais tempo?",fora_dominio,humano
+"Qual é a melhor maneira de cozinhar ovos?",fora_dominio,humano
+"Como fazer uma pizza caseira?",fora_dominio,humano
+"Quais alimentos são ricos em proteínas?",fora_dominio,humano
+"Como preparar um molho branco?",fora_dominio,humano
+"Qual é a origem do sushi?",fora_dominio,humano
+"Como fazer panquecas?",fora_dominio,humano
+"Quais são os benefícios de beber água?",fora_dominio,humano
+"Como preparar um churrasco?",fora_dominio,humano
+"Qual é a melhor maneira de temperar frango?",fora_dominio,humano
+"Como fazer brigadeiro?",fora_dominio,humano
+"Quais são os ingredientes de um pão de queijo?",fora_dominio,humano
+"Como preparar uma salada saudável?",fora_dominio,humano
+"Qual é a origem do café?",fora_dominio,humano
+"Quais filmes de ficção científica você recomenda?",fora_dominio,humano
+"Quem dirigiu o filme Interestelar?",fora_dominio,humano
+"Qual é a história de One Piece?",fora_dominio,humano
+"Quais são os melhores animes de comédia?",fora_dominio,humano
+"Quando foi lançado o primeiro filme de Star Wars?",fora_dominio,humano
+"Quem escreveu Dom Quixote?",fora_dominio,humano
+"Qual é o livro mais vendido do mundo?",fora_dominio,humano
+"Quais são os personagens principais de Harry Potter?",fora_dominio,humano
+"Como surgiu o cinema?",fora_dominio,humano
+"Quais são os gêneros musicais mais populares?",fora_dominio,humano
+"Quem foi Beethoven?",fora_dominio,humano
+"Qual é a diferença entre mangá e quadrinhos?",fora_dominio,humano
+"Quais séries de suspense você recomenda?",fora_dominio,humano
+"Como surgiu o teatro Kabuki?",fora_dominio,humano
+"Qual é a origem do videogame?",fora_dominio,humano
+"Quais são os jogos mais vendidos da história?",fora_dominio,humano
+"Quem criou o personagem Mario?",fora_dominio,humano
+"Qual é a história de The Legend of Zelda?",fora_dominio,humano
+"Quais são os melhores jogos de estratégia?",fora_dominio,humano
+"Como funciona a indústria cinematográfica?",fora_dominio,humano
+"Qual é a moeda utilizada no Japão?",fora_dominio,humano
+"Como planejar uma viagem para Tóquio?",fora_dominio,humano
+"Quais lugares visitar em Osaka?",fora_dominio,humano
+"Como funciona o transporte público de Londres?",fora_dominio,humano
+"Qual é a melhor época para visitar a Itália?",fora_dominio,humano
+"Preciso de visto para viajar aos Estados Unidos?",fora_dominio,humano
+"Quais documentos preciso para tirar passaporte?",fora_dominio,humano
+"Como comprar passagens aéreas mais baratas?",fora_dominio,humano
+"Quais são os pontos turísticos mais famosos de Paris?",fora_dominio,humano
+"Como funciona o sistema ferroviário japonês?",fora_dominio,humano
+"Qual é a distância entre São Paulo e Rio de Janeiro?",fora_dominio,humano
+"Quais praias visitar no Nordeste?",fora_dominio,humano
+"Como alugar um carro durante uma viagem?",fora_dominio,humano
+"Qual é a melhor maneira de viajar pela Europa?",fora_dominio,humano
+"Como funciona o câmbio de moedas?",fora_dominio,humano
+"Qual é a história da Torre Eiffel?",fora_dominio,humano
+"Como calcular a porcentagem de um valor?",fora_dominio,humano
+"Quanto é 25 vezes 48?",fora_dominio,humano
+"Como resolver uma equação de segundo grau?",fora_dominio,humano
+"Qual é a raiz quadrada de 144?",fora_dominio,humano
+"Explique o teorema de Pitágoras.",fora_dominio,humano
+"Como calcular a área de um círculo?",fora_dominio,humano
+"O que é uma função matemática?",fora_dominio,humano
+"Qual é a diferença entre média e mediana?",fora_dominio,humano
+"Como converter quilômetros em milhas?",fora_dominio,humano
+"Quanto é 15% de 800?",fora_dominio,humano
+"Como calcular juros compostos?",fora_dominio,humano
+"O que é uma matriz na matemática?",fora_dominio,humano
+"Como funciona a probabilidade?",fora_dominio,humano
+"Qual é o valor de pi?",fora_dominio,humano
+"Como calcular o volume de um cilindro?",fora_dominio,humano
+"Qual é a diferença entre números racionais e irracionais?",fora_dominio,humano
+"Como funciona o mercado de ações?",fora_dominio,humano
+"O que é inflação?",fora_dominio,humano
+"Como funciona o imposto de renda?",fora_dominio,humano
+"Qual é a diferença entre débito e crédito?",fora_dominio,humano
+"Como organizar meu orçamento mensal?",fora_dominio,humano
+"Quais são as melhores formas de economizar dinheiro?",fora_dominio,humano
+"Como funciona um financiamento imobiliário?",fora_dominio,humano
+"O que é renda fixa?",fora_dominio,humano
+"Como calcular o valor de uma parcela?",fora_dominio,humano
+"Qual é a diferença entre salário bruto e líquido?",fora_dominio,humano
+"Como funciona uma conta poupança?",fora_dominio,humano
+"Quais são os principais indicadores econômicos?",fora_dominio,humano
+"Como funciona o sistema eleitoral brasileiro?",fora_dominio,humano
+"Quem foi o primeiro presidente do Brasil?",fora_dominio,humano
+"Quando aconteceu a Revolução Francesa?",fora_dominio,humano
+"Qual foi a importância da Revolução Industrial?",fora_dominio,humano
+"Como surgiu a democracia?",fora_dominio,humano
+"Quem foi Napoleão Bonaparte?",fora_dominio,humano
+"Qual é a história do Império Romano?",fora_dominio,humano
+"Quando terminou a Segunda Guerra Mundial?",fora_dominio,humano
+"Quais foram as causas da Guerra Fria?",fora_dominio,humano
+"Quem construiu as pirâmides do Egito?",fora_dominio,humano
 Reprovei por falta?,fora_dominio,humano
 Qnts faltas eu preciso pra reprovar?,fora_dominio,humano
 qual email dos meus professores?,fora_dominio,humano
@@ -341,6 +501,68 @@ Blz,chitchat,humano
 Obrigado,chitchat,humano
 Falou,chitchat,humano
 Flw,chitchat,humano
+"Oi!",chitchat,humano
+"Olá tudo bem?",chitchat,humano
+"Bom dia!",chitchat,humano
+"Boa tarde!",chitchat,humano
+"Boa noite!",chitchat,humano
+"Como você está?",chitchat,humano
+"Tudo certo por aí?",chitchat,humano
+"Oi tudo tranquilo?",chitchat,humano
+"Como vai?",chitchat,humano
+"Está tudo bem?",chitchat,humano
+"Obrigado pela ajuda!",chitchat,humano
+"Muito obrigado!",chitchat,humano
+"Valeu pela resposta!",chitchat,humano
+"Agradeço pela atenção.",chitchat,humano
+"Você ajudou bastante!",chitchat,humano
+"Perfeito obrigado!",chitchat,humano
+"Entendi valeu!",chitchat,humano
+"Obrigado pela explicação.",chitchat,humano
+"Até mais!",chitchat,humano
+"Até logo!",chitchat,humano
+"Falou!",chitchat,humano
+"Tenha um bom dia!",chitchat,humano
+"Boa noite e até amanhã!",chitchat,humano
+"Até a próxima!",chitchat,humano
+"Tchau!",chitchat,humano
+"Você é muito útil.",chitchat,humano
+"Gostei de conversar com você.",chitchat,humano
+"Você consegue me ouvir?",chitchat,humano
+"Está funcionando normalmente?",chitchat,humano
+"Você ainda está aí?",chitchat,humano
+"Vamos conversar um pouco?",chitchat,humano
+"Estou entediado.",chitchat,humano
+"Hoje está sendo um dia longo.",chitchat,humano
+"Que dia bonito hoje!",chitchat,humano
+"Estou muito cansado hoje.",chitchat,humano
+"Como está sendo seu dia?",chitchat,humano
+"Você gosta de conversar?",chitchat,humano
+"Qual é o seu nome?",chitchat,humano
+"O que você faz?",chitchat,humano
+"Você é um robô?",chitchat,humano
+"Você é uma inteligência artificial?",chitchat,humano
+"Quem criou você?",chitchat,humano
+"Você pode contar uma piada?",chitchat,humano
+"Me conte algo engraçado.",chitchat,humano
+"Estou feliz hoje!",chitchat,humano
+"Que legal!",chitchat,humano
+"Isso foi interessante.",chitchat,humano
+"Não acredito nisso!",chitchat,humano
+"Que ótimo!",chitchat,humano
+"Tudo bem então.",chitchat,humano
+"Beleza!",chitchat,humano
+"Combinado!",chitchat,humano
+"Pode deixar.",chitchat,humano
+"Sem problemas.",chitchat,humano
+"Desculpa pela pergunta.",chitchat,humano
+"Foi mal!",chitchat,humano
+"Não tem problema.",chitchat,humano
+"Você está me ajudando muito.",chitchat,humano
+"Legal conversar com você.",chitchat,humano
+"Até daqui a pouco!",chitchat,humano
+"Tenha uma ótima semana!",chitchat,humano
+"Obrigado e bom trabalho!",chitchat,humano
 Brigada,chitchat,humano
 Brigado,chitchat,humano
 Hummmm,chitchat,humano
